@@ -1,6 +1,8 @@
 URL:https://www.general-security.gov.lb/en/posts/86
 Title:Certifying copies of passport pages
-Category: Certifying Passport
+Category: Passport
+Language: en
+Service: Certifying Passport
 Keywords: certification, passport, LibanPost, Lebanon, Lebanese
 Content:
 
