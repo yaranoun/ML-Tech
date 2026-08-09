@@ -1,5 +1,6 @@
 URL: https://tmo.gov.lb/web/panel/info/service-types/1
 Title: "استمارة عن رخصة السوق العمومية لتقديمها للضمان الاجتماعي(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)"
+Category: "Driver's Licence"
 Language: ar
 Keywords: Driver's license, driving license, Lebanon, Lebanese, documents, appointment,taxi,cab, public, social security,رخصة سوق، لبنان، لبناني، المستندات ، عمومي، ضمان اجتماعي، موعد،
 Service: " رخصة سوق عمومية للضمان الاجتماعي"
