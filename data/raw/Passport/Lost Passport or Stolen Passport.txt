@@ -1,7 +1,9 @@
 URL: https://www.general-security.gov.lb/en/posts/14
 Title: Lost Passport / Stolen Passport
-Category: Lost or Stolen Passport
+Category: Passport
+Language: en
 Keywords: loss, stolen, passport, minor, public figure, Lebanon, Lebanese
+Service: Lost or Stolen Passport
 Content:
 Lost Passport:
 
