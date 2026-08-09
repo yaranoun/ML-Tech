@@ -1,10 +1,10 @@
 URL: https://tmo.gov.lb/web/panel/info/service-types/1
 Title: "
 استمارة رخصة سوق للخارج(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)" 
-Category: "Driver's Licence"
+Category: Driver's Licence
 Language: ar
 Keywords: Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،
-Service: "استمارة رخصة سوق للخارج"
+Service: استمارة رخصة سوق للخارج
 Content:
 1
 الوصف
