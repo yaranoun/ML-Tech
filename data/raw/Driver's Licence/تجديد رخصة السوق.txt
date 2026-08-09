@@ -1,5 +1,6 @@
 URL: https://tmo.gov.lb/web/panel/info/service-types/1
 Title: "تجديد رخصة السوق(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)"
+Category: "Driver's Licence"
 Language: ar
 Keywords: Driver's license, driving licence, Lebanon, Lebanese, documents, appointment,expired,renewal, taxi,public,private,رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية  الصلاحة، تجديد
 Service: "تجديد رخصة سوق منتهية الصلاحة"
