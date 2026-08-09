@@ -1,5 +1,6 @@
 URL: https://tmo.gov.lb/web/panel/info/service-types/1
 Title: استبدال رخصة السوق العسكرية للعسكريين الموجودين في الخدمة الفعلية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)
+Category: "Driver's Licence"
 Language: ar
 Keywords: Driver's license, driving license, Lebanon, Lebanese, documents, appointment, military, civil,رخصة سوق، لبنان، لبناني، المستندات، عسكري، مدني، موعد،
 Service: "استبدال رخصة سوق عسكرية"
