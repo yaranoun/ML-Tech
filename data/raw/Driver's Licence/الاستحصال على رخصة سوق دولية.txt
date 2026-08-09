@@ -1,5 +1,6 @@
 URL: https://tmo.gov.lb/web/panel/info/service-types/1
 Title: "الاستحصال على رخصة سوق دولية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)"
+Category: "Driver's Licence"
 Language: ar
 Keywords: Driver's license, driving license, Lebanon, Lebanese, documents, appointment, international,رخصة سوق، لبنان، لبناني، المستندات ، استحصال، دولي، موعد،
 Service: "رخصة سوق عمومية للضمان الاجتماعي"
