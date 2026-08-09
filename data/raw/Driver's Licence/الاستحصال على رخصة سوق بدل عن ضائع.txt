@@ -1,5 +1,6 @@
 URL: https://tmo.gov.lb/web/panel/info/service-types/1
 Title: "الاستحصال على رخصة سوق بدل عن ضائع(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)"
+Category: "Driver's Licence"
 Language: ar
 Keywords: Driver's license, Lebanon, Lebanese, documents, appointment, expired, loss, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية الصلاحية، فقدان، ضائع
 Service: "تجديد رخصة قيادة ضائعة"
