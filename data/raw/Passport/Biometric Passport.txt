@@ -1,7 +1,9 @@
 URL: https://www.general-security.gov.lb/en/posts/11 
 Title: Biometric Passport
-Category:Biometric Passport
+Category: Passport
+Language: en
 Keywords: documents, fees, minors, renewal, biometric, cost, price, Lebanon, Lebanese
+Service: Biometric Passport
 Content:
 Requested documents:
 
