@@ -1,25 +1,5 @@
 [
     {
-        "document": "استبدال رخصة السوق العسكرية للعسكريين الموجودين في الخدمة الفعلية.txt",
-        "title": "استبدال رخصة السوق العسكرية للعسكريين الموجودين في الخدمة الفعلية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)",
-        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
-        "category": "Driver's Licence",
-        "service": "استبدال رخصة سوق عسكرية",
-        "language": "ar",
-        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, military, civil,رخصة سوق، لبنان، لبناني، المستندات، عسكري، مدني، موعد،",
-        "section": "الوصف",
-        "text": "لا يتطلب موعد\n(يستوجب حضور صاحب العلاقة شخصيا)\n1.1\nيحق للعسكريين في الخدمة الفعلية الحصول على رخصة سوق مدنية استنادًا إلى رخصة السوق العسكرية من الفئة نفسها، ويرغبون بإضافة فئة سبق أن حصلوا عليها بموجب رخصة السوق العسكرية.\n\n2"
-    },
-    {
-        "document": "استبدال رخصة السوق العسكرية للعسكريين الموجودين في الخدمة الفعلية.txt",
-        "title": "استبدال رخصة السوق العسكرية للعسكريين الموجودين في الخدمة الفعلية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)",
-        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
-        "category": "Driver's Licence",
-        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, military, civil,رخصة سوق، لبنان، لبناني، المستندات، عسكري، مدني، موعد،",
-        "section": "المستندات المطلوبة",
-        "text": ":\n\n2.1\nانموذج رقم 2 (الجيش، الامن العام وامن الدولة) او انموذج رقم 1 (قوى الامن الداخلي) ( يجب عند الحضور ابراز الهوية العسكرية )\n\n2.2\nالرخصة العسكرية وصورة عنها.\n\n2.3\nافادة صادرة من السلك الذي ينتمي اليه صاحب العلاقة يحدد بموجبها الفئات الحاصل عليها.\n\n2.4\nرخصة السوق المدنية في حال وجودها\n\n2.5\nصورتان شمسيتان مصدقتين\n\n2.6\nفحص طبي يظهر فئة دم طالب الرخصة\n\n2.7\nشهادة طبية عسكرية او مدنية"
-    },
-    {
         "document": "استمارة عن رخصة السوق العمومية لتقديمها للضمان الاجتماعي.txt",
         "title": "\"استمارة عن رخصة السوق العمومية لتقديمها للضمان الاجتماعي(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
@@ -35,40 +15,55 @@
         "title": "\"استمارة عن رخصة السوق العمومية لتقديمها للضمان الاجتماعي(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
         "category": "Driver's Licence",
+        "service": "رخصة سوق عمومية للضمان الاجتماعي",
+        "language": "ar",
         "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment,taxi,cab, public, social security,رخصة سوق، لبنان، لبناني، المستندات ، عمومي، ضمان اجتماعي، موعد،",
         "section": "المستندات المطلوبة",
-        "text": ":\n\n2.1\nطلب افادة من الضمان الاجتماعي\n\n2.2\nصورة عن رخصة السير العمومية\n\n2.3\nصورة عن الهوية"
+        "text": "2.1\nطلب افادة من الضمان الاجتماعي\n\n2.2\nصورة عن رخصة السير العمومية\n\n2.3\nصورة عن الهوية"
     },
     {
-        "document": "تجديد رخصة السوق.txt",
-        "title": "\"تجديد رخصة السوق(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
+        "document": "الاستحصال على رخصة سوق دولية.txt",
+        "title": "\"الاستحصال على رخصة سوق دولية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
         "category": "Driver's Licence",
-        "service": "تجديد رخصة سوق منتهية الصلاحة",
+        "service": "الاستحصال على رخصة سوق دولية",
         "language": "ar",
-        "keywords": "Driver's license, driving licence, Lebanon, Lebanese, documents, appointment,expired,renewal, taxi,public,private,رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية  الصلاحة، تجديد",
+        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, international,رخصة سوق، لبنان، لبناني، المستندات ، استحصال، دولي، موعد،",
         "section": "الوصف",
-        "text": "(يستوجب حضور صاحب العلاقة شخصيا)\nلا يتطلب موعد\n عند انتهاء تاريخ صلاحية رخصة السوق(خصوصية أوعمومية) يتوجب على المواطن تجديدها في المركز الذي صدرت عنه.\n\n2"
+        "text": "لا يتطلب موعد\n(يستوجب حضور صاحب العلاقة شخصيا)\n1.1\n تُتيح هذه الخدمة لصاحب العلاقة الاستحصال على رخصة سوق دولية  \n\n\n2"
     },
     {
-        "document": "تجديد رخصة السوق.txt",
-        "title": "\"تجديد رخصة السوق(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
+        "document": "الاستحصال على رخصة سوق دولية.txt",
+        "title": "\"الاستحصال على رخصة سوق دولية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
         "category": "Driver's Licence",
-        "service": "تجديد رخصة سوق منتهية الصلاحة",
+        "service": "الاستحصال على رخصة سوق دولية",
         "language": "ar",
-        "keywords": "Driver's license, driving licence, Lebanon, Lebanese, documents, appointment,expired,renewal, taxi,public,private,رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية  الصلاحة، تجديد",
+        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, international,رخصة سوق، لبنان، لبناني، المستندات ، استحصال، دولي، موعد،",
         "section": "المستندات المطلوبة",
-        "text": "2.1\nرخصة السوق المنتهية الصالحية\n\n2.2\nسجل عدلي لا يعود تاريخه لأكثر من ثلاثة اشهر\n\n2.3\nبطاقة أو إفادة فئة الدم\n\n2.4\nشهادة طبية صادرة من نقابة الاطباء، وعليها الرسم الشمسي لصاحب العلاقة (لا يعود تاريخها لأكثر من ثلاثة اشهر)\n\n2.5\nصورة عن بطاقة الهوية أو إخراح قيد أو صورة عن جواز السفر. يجب على غير اللبنانيين ابراز اقامة صالحة.\n\n2.6\nصورة شمسية مصدقة من المختار (عدد2)\n\n3"
+        "text": ":\n\n2.1\nصورة عن جواز السفر\n\n2.2\nصورة عن الهوية\n\n2.3\nصورة عن رخصة السوق اللبنانية\n\n2.4\nصور شمسية عدد 2"
     },
     {
-        "document": "تجديد رخصة السوق.txt",
-        "title": "\"تجديد رخصة السوق(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
+        "document": "استبدال رخصة سوق لبنانية لأجنبية.txt",
+        "title": "\"",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
         "category": "Driver's Licence",
-        "keywords": "Driver's license, driving licence, Lebanon, Lebanese, documents, appointment,expired,renewal, taxi,public,private,رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية  الصلاحة، تجديد",
-        "section": "ملاحظة",
-        "text": "3.1\nفي حال تم تغيير عنوان السكن يجب احضار افادة سكن من مختار المحلّة.\n\n3.2\nفي حال رخصة السوق المنتهية الصلاحية من الإصدار القديم(الغيير بيومتري)، يتوجب على المواطن الحضور الى المكان المختص في المركز من اجل اخذ البصمات للتمكن من اصدار رخصة السوق البيومترية"
+        "service": "استبدال رخصة سوق لبنانية لأجنبية",
+        "language": "ar",
+        "keywords": "Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،",
+        "section": "الوصف",
+        "text": "لا يتطلب موعد\n(يستوجب حضور صاحب العلاقة شخصيا)\n1.1\nتُتيح هذه الاستمارة لصاحب العلاقة استبدال رخصة السوق اللبنانية برخصة سوق أجنبية، وذلك وفقًا للقوانين والأنظمة المعتمدة في الدولة الأجنبية المعنية.\n\n1.2\nيجب أن تُوقَّع هذه الاستمارة من قبل رئيس مصلحة تسجيل السيارات والآليات، ثم تُترجَم إلى اللغة المطلوبة وتُصدَّق لدى وزارة الخارجية اللبنانية لكي تُصبح نافذة.\n\n2"
+    },
+    {
+        "document": "استبدال رخصة سوق لبنانية لأجنبية.txt",
+        "title": "\"",
+        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
+        "category": "Driver's Licence",
+        "service": "استبدال رخصة سوق لبنانية لأجنبية",
+        "language": "ar",
+        "keywords": "Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،",
+        "section": "المستندات المطلوبة",
+        "text": ":\n\n2.1\nصورة عن رخصة السوق\n\n2.2\nصورة عن الهوية\n\n2.3\nتأمين الطوابع الماليّة اللازمة القيمة 50000ل.ل."
     },
     {
         "document": "الاستحصال على رخصة سوق بدل عن ضائع.txt",
@@ -97,49 +92,99 @@
         "title": "\"الاستحصال على رخصة سوق بدل عن ضائع(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
         "category": "Driver's Licence",
+        "service": "تجديد رخصة قيادة ضائعة",
+        "language": "ar",
         "keywords": "Driver's license, Lebanon, Lebanese, documents, appointment, expired, loss, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية الصلاحية، فقدان، ضائع",
         "section": "ملاحظة",
         "text": ":\n\n2.3.1\nفي حال تم العثور على الرخصة القديمة يتوجب تسليمها الى دائرة السوق."
     },
     {
-        "document": "رخصة سوق للخارج.txt",
-        "title": "\"",
+        "document": "استبدال رخصة السوق العسكرية للعسكريين الموجودين في الخدمة الفعلية.txt",
+        "title": "استبدال رخصة السوق العسكرية للعسكريين الموجودين في الخدمة الفعلية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
         "category": "Driver's Licence",
-        "service": "استمارة رخصة سوق للخارج",
+        "service": "استبدال رخصة سوق عسكرية",
         "language": "ar",
-        "keywords": "Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،",
+        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, military, civil,رخصة سوق، لبنان، لبناني، المستندات، عسكري، مدني، موعد،",
         "section": "الوصف",
-        "text": "لا يتطلب موعد\n(يستوجب حضور صاحب العلاقة شخصيا)\n1.1\nتُتيح هذه الاستمارة لصاحب العلاقة استبدال رخصة السوق اللبنانية برخصة سوق أجنبية، وذلك وفقًا للقوانين والأنظمة المعتمدة في الدولة الأجنبية المعنية.\n\n1.2\nيجب أن تُوقَّع هذه الاستمارة من قبل رئيس مصلحة تسجيل السيارات والآليات، ثم تُترجَم إلى اللغة المطلوبة وتُصدَّق لدى وزارة الخارجية اللبنانية لكي تُصبح نافذة.\n\n2"
+        "text": "لا يتطلب موعد\n(يستوجب حضور صاحب العلاقة شخصيا)\n1.1\nيحق للعسكريين في الخدمة الفعلية الحصول على رخصة سوق مدنية استنادًا إلى رخصة السوق العسكرية من الفئة نفسها، ويرغبون بإضافة فئة سبق أن حصلوا عليها بموجب رخصة السوق العسكرية.\n\n2"
     },
     {
-        "document": "رخصة سوق للخارج.txt",
-        "title": "\"",
+        "document": "استبدال رخصة السوق العسكرية للعسكريين الموجودين في الخدمة الفعلية.txt",
+        "title": "استبدال رخصة السوق العسكرية للعسكريين الموجودين في الخدمة الفعلية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
         "category": "Driver's Licence",
-        "keywords": "Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،",
-        "section": "المستندات المطلوبة",
-        "text": ":\n\n2.1\nصورة عن رخصة السوق\n\n2.2\nصورة عن الهوية\n\n2.3\nتأمين الطوابع الماليّة اللازمة القيمة 50000ل.ل."
-    },
-    {
-        "document": "الاستحصال على رخصة سوق دولية.txt",
-        "title": "\"الاستحصال على رخصة سوق دولية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
-        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
-        "category": "Driver's Licence",
-        "service": "الاستحصال على رخصة سوق دولية",
+        "service": "استبدال رخصة سوق عسكرية",
         "language": "ar",
-        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, international,رخصة سوق، لبنان، لبناني، المستندات ، استحصال، دولي، موعد،",
-        "section": "الوصف",
-        "text": "لا يتطلب موعد\n(يستوجب حضور صاحب العلاقة شخصيا)\n1.1\n تُتيح هذه الخدمة لصاحب العلاقة الاستحصال على رخصة سوق دولية  \n\n\n2"
+        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, military, civil,رخصة سوق، لبنان، لبناني، المستندات، عسكري، مدني، موعد،",
+        "section": "المستندات المطلوبة",
+        "text": ":\n\n2.1\nانموذج رقم 2 (الجيش، الامن العام وامن الدولة) او انموذج رقم 1 (قوى الامن الداخلي) ( يجب عند الحضور ابراز الهوية العسكرية )\n\n2.2\nالرخصة العسكرية وصورة عنها.\n\n2.3\nافادة صادرة من السلك الذي ينتمي اليه صاحب العلاقة يحدد بموجبها الفئات الحاصل عليها.\n\n2.4\nرخصة السوق المدنية في حال وجودها\n\n2.5\nصورتان شمسيتان مصدقتين\n\n2.6\nفحص طبي يظهر فئة دم طالب الرخصة\n\n2.7\nشهادة طبية عسكرية او مدنية"
     },
     {
-        "document": "الاستحصال على رخصة سوق دولية.txt",
-        "title": "\"الاستحصال على رخصة سوق دولية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
+        "document": "تجديد رخصة السوق.txt",
+        "title": "\"تجديد رخصة السوق(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
         "category": "Driver's Licence",
-        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, international,رخصة سوق، لبنان، لبناني، المستندات ، استحصال، دولي، موعد،",
+        "service": "تجديد رخصة سوق منتهية الصلاحة",
+        "language": "ar",
+        "keywords": "Driver's license, driving licence, Lebanon, Lebanese, documents, appointment,expired,renewal, taxi,public,private,رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية  الصلاحة، تجديد",
+        "section": "الوصف",
+        "text": "(يستوجب حضور صاحب العلاقة شخصيا)\nلا يتطلب موعد\n عند انتهاء تاريخ صلاحية رخصة السوق(خصوصية أوعمومية) يتوجب على المواطن تجديدها في المركز الذي صدرت عنه.\n\n2"
+    },
+    {
+        "document": "تجديد رخصة السوق.txt",
+        "title": "\"تجديد رخصة السوق(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
+        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
+        "category": "Driver's Licence",
+        "service": "تجديد رخصة سوق منتهية الصلاحة",
+        "language": "ar",
+        "keywords": "Driver's license, driving licence, Lebanon, Lebanese, documents, appointment,expired,renewal, taxi,public,private,رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية  الصلاحة، تجديد",
         "section": "المستندات المطلوبة",
-        "text": ":\n\n2.1\nصورة عن جواز السفر\n\n2.2\nصورة عن الهوية\n\n2.3\nصورة عن رخصة السوق اللبنانية\n\n2.4\nصور شمسية عدد 2"
+        "text": "2.1\nرخصة السوق المنتهية الصالحية\n\n2.2\nسجل عدلي لا يعود تاريخه لأكثر من ثلاثة اشهر\n\n2.3\nبطاقة أو إفادة فئة الدم\n\n2.4\nشهادة طبية صادرة من نقابة الاطباء، وعليها الرسم الشمسي لصاحب العلاقة (لا يعود تاريخها لأكثر من ثلاثة اشهر)\n\n2.5\nصورة عن بطاقة الهوية أو إخراح قيد أو صورة عن جواز السفر. يجب على غير اللبنانيين ابراز اقامة صالحة.\n\n2.6\nصورة شمسية مصدقة من المختار (عدد2)\n\n3"
+    },
+    {
+        "document": "تجديد رخصة السوق.txt",
+        "title": "\"تجديد رخصة السوق(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
+        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
+        "category": "Driver's Licence",
+        "service": "تجديد رخصة سوق منتهية الصلاحة",
+        "language": "ar",
+        "keywords": "Driver's license, driving licence, Lebanon, Lebanese, documents, appointment,expired,renewal, taxi,public,private,رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية  الصلاحة، تجديد",
+        "section": "ملاحظة",
+        "text": "3.1\nفي حال تم تغيير عنوان السكن يجب احضار افادة سكن من مختار المحلّة.\n\n3.2\nفي حال رخصة السوق المنتهية الصلاحية من الإصدار القديم(الغيير بيومتري)، يتوجب على المواطن الحضور الى المكان المختص في المركز من اجل اخذ البصمات للتمكن من اصدار رخصة السوق البيومترية"
+    },
+    {
+        "document": "Lost Passport or Stolen Passport.txt",
+        "title": "Lost Passport / Stolen Passport",
+        "url": "https://www.general-security.gov.lb/en/posts/14",
+        "category": "Passport",
+        "service": "Lost or Stolen Passport",
+        "language": "en",
+        "keywords": "loss, stolen, passport, minor, public figure, Lebanon, Lebanese",
+        "section": "Lost Passport",
+        "text": "Citizens must declare the loss of their passport in person at a regional office of general security, having in hand documents of identification\nIf the citizen is a minor, his legal guardian must declare the loss, having in hand documents of identification that underline his appointment as a legal guardian. If the minor is aged 15 years or less, his presence is a must, in such as case.\nIf the concerned party is a public figure whether political, spiritual, or a military entity, the declaration can be made by an appointed delegate, having in hand an authorization issued by the Operation Room."
+    },
+    {
+        "document": "Lost Passport or Stolen Passport.txt",
+        "title": "Lost Passport / Stolen Passport",
+        "url": "https://www.general-security.gov.lb/en/posts/14",
+        "category": "Passport",
+        "service": "Lost or Stolen Passport",
+        "language": "en",
+        "keywords": "loss, stolen, passport, minor, public figure, Lebanon, Lebanese",
+        "section": "Stolen Passport",
+        "text": "Lost passport procedure:\nCitizens must declare the loss of their passport in person at a regional office of general security, having in hand documents of identification\nIf the citizen is a minor, his legal guardian must declare the loss, having in hand documents of identification that underline his appointment as a legal guardian. If the minor is aged 15 years or less, his presence is a must, in such as case.\nIf the concerned party is a public figure whether political, spiritual, or a military entity, the declaration can be made by an appointed delegate, having in hand an authorization issued by the Operation Room.\n\nAdditional information for a stolen passport:\nThe same above-mentioned procedures are applied for stolen passports, with the exception of an additional document required:\nA certified copy of the investigation report done by the ISF internal security forces\\"
+    },
+    {
+        "document": "Lost Passport or Stolen Passport.txt",
+        "title": "Lost Passport / Stolen Passport",
+        "url": "https://www.general-security.gov.lb/en/posts/14",
+        "category": "Passport",
+        "service": "Lost or Stolen Passport",
+        "language": "en",
+        "keywords": "loss, stolen, passport, minor, public figure, Lebanon, Lebanese",
+        "section": "NB",
+        "text": "The general directorate of General security informs citizens of the necessity to declare a lost/stolen passport even if they don’t intend to apply for a new one."
     },
     {
         "document": "Personal attendance required.txt",
@@ -168,40 +213,11 @@
         "title": "Personal attendance required",
         "url": "https://www.general-security.gov.lb/en/posts/73",
         "category": "Passport",
+        "service": "Personal attendance required for Passport",
+        "language": "en",
         "keywords": "Lebanese citizens, minors, exemption from attendance, exemption from fees, personal attendance, physical, presence",
         "section": "Exemption from fees",
         "text": "The individuals having in hand a social security card, are exempted from paying additional fees (4,900,000 L.L.) to receive the passport immediately, when applying at the General Director department."
-    },
-    {
-        "document": "Passport of adopted, born in special circumstances child or a citizen without a family name.txt",
-        "title": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
-        "url": "https://www.general-security.gov.lb/en/posts/71",
-        "category": "Passport",
-        "service": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
-        "language": "en",
-        "keywords": "documents, minor, passport, adopted, special circumstances child, citizien without a family name, Lebanon, Lebanese",
-        "section": "The requested documents",
-        "text": ":\n \n\nInvestigation report done by the Interior Security Forces\n \n\nA certificate of birth that conforms to current regulations\n \n\nA civil status extract for the child bearing his adoptive name\n \n\nA document signed by the orphanage waiving the child\n \n\nAn agreement issued by spiritual religious court concerning the adoption\n \n\nA marriage attestation procured by the adopting family\n \n\nThe approval issued by local governmental entities\n \n\nA medical attestation that underlines the infertility of one of the spouses\n \n\nAn extract of judicial record for both the kid and the adoptive parents\n \n\nA certified copy of the passport held by the adoptive parents\n \n\nAn attestation that underlines the fact that both the parents and the orphanage didn’t receive any form of revenue from the above mentioned procedure\n \n\nThe approval issued by the ministry of internal affairs and the municipality\n \n\nAn attestation of baptism for the adopted kid and the adoptive parents\n \n\nAn accreditation issued to the orphanage\n \n\nA proxy done by one of the parents to the other, if one of them is unable to show up\n \nNB:\n \n\nThe above-mentioned documents have to be authentic, and the copies should be certified\n \n\nThe procedures required in such a case are held in the general secretarial office of the general security, by the adoptive parents. The documents are then transferred to the bureau of passports, naturalization and foreign affairs. \nChild born in special circumstances An individual registered under his mother’s surname, without a mention of his father’s true identity (considered anonymous), that conveys a request of obtaining a passport, has to respect the following criteria:\nA passport for an adult applicant (hyperlink)"
-    },
-    {
-        "document": "Passport of adopted, born in special circumstances child or a citizen without a family name.txt",
-        "title": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
-        "url": "https://www.general-security.gov.lb/en/posts/71",
-        "category": "Passport",
-        "service": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
-        "language": "en",
-        "keywords": "documents, minor, passport, adopted, special circumstances child, citizien without a family name, Lebanon, Lebanese",
-        "section": "A passport for a minor",
-        "text": "his mother should show up at the competent general security bureau, where she is interrogated, having in hand the requested documents, including the judicial decisions that led to the registration of the child under the mother’s name\n \nThe final decision is issued by the general director of the general security."
-    },
-    {
-        "document": "Passport of adopted, born in special circumstances child or a citizen without a family name.txt",
-        "title": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
-        "url": "https://www.general-security.gov.lb/en/posts/71",
-        "category": "Passport",
-        "keywords": "documents, minor, passport, adopted, special circumstances child, citizien without a family name, Lebanon, Lebanese",
-        "section": "A citizen without a family name",
-        "text": "Citizens that do not have family names, have a right to a passport according to the information provided by the identity card or an extract of civil status\nThe label: “----“is transcribed under the family name, regardless of the foreign language"
     },
     {
         "document": "Certifying Passport.txt",
@@ -263,40 +279,11 @@
         "title": "Exporting a biometric passport",
         "url": "https://www.general-security.gov.lb/en/posts/72",
         "category": "Passport",
+        "service": "Exporting biometric passport",
+        "language": "en",
         "keywords": "Exporting, Lebanese passport, foreign passport, travel agencies, individual agencies, embassy, consulate, shipping, Lebanon",
         "section": "Nb",
         "text": "Passports exported by the embassy or the consulate are exempted from any authorization given by the general security."
-    },
-    {
-        "document": "Lost Passport or Stolen Passport.txt",
-        "title": "Lost Passport / Stolen Passport",
-        "url": "https://www.general-security.gov.lb/en/posts/14",
-        "category": "Passport",
-        "service": "Lost or Stolen Passport",
-        "language": "en",
-        "keywords": "loss, stolen, passport, minor, public figure, Lebanon, Lebanese",
-        "section": "Lost Passport",
-        "text": "Citizens must declare the loss of their passport in person at a regional office of general security, having in hand documents of identification\nIf the citizen is a minor, his legal guardian must declare the loss, having in hand documents of identification that underline his appointment as a legal guardian. If the minor is aged 15 years or less, his presence is a must, in such as case.\nIf the concerned party is a public figure whether political, spiritual, or a military entity, the declaration can be made by an appointed delegate, having in hand an authorization issued by the Operation Room."
-    },
-    {
-        "document": "Lost Passport or Stolen Passport.txt",
-        "title": "Lost Passport / Stolen Passport",
-        "url": "https://www.general-security.gov.lb/en/posts/14",
-        "category": "Passport",
-        "service": "Lost or Stolen Passport",
-        "language": "en",
-        "keywords": "loss, stolen, passport, minor, public figure, Lebanon, Lebanese",
-        "section": "Stolen Passport",
-        "text": "Lost passport procedure:\nCitizens must declare the loss of their passport in person at a regional office of general security, having in hand documents of identification\nIf the citizen is a minor, his legal guardian must declare the loss, having in hand documents of identification that underline his appointment as a legal guardian. If the minor is aged 15 years or less, his presence is a must, in such as case.\nIf the concerned party is a public figure whether political, spiritual, or a military entity, the declaration can be made by an appointed delegate, having in hand an authorization issued by the Operation Room.\n\nAdditional information for a stolen passport:\nThe same above-mentioned procedures are applied for stolen passports, with the exception of an additional document required:\nA certified copy of the investigation report done by the ISF internal security forces\\"
-    },
-    {
-        "document": "Lost Passport or Stolen Passport.txt",
-        "title": "Lost Passport / Stolen Passport",
-        "url": "https://www.general-security.gov.lb/en/posts/14",
-        "category": "Passport",
-        "keywords": "loss, stolen, passport, minor, public figure, Lebanon, Lebanese",
-        "section": "NB",
-        "text": "The general directorate of General security informs citizens of the necessity to declare a lost/stolen passport even if they don’t intend to apply for a new one."
     },
     {
         "document": "Biometric Passport.txt",
@@ -336,8 +323,43 @@
         "title": "Biometric Passport",
         "url": "https://www.general-security.gov.lb/en/posts/11",
         "category": "Passport",
+        "service": "Biometric Passport",
+        "language": "en",
         "keywords": "documents, fees, minors, renewal, biometric, cost, price, Lebanon, Lebanese",
         "section": "NB",
         "text": "To receive the passport immediately, the interested party can apply at the department of public relations. An additional fee of LBP 9,800,000 will be however requested."
+    },
+    {
+        "document": "Passport of adopted, born in special circumstances child or a citizen without a family name.txt",
+        "title": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
+        "url": "https://www.general-security.gov.lb/en/posts/71",
+        "category": "Passport",
+        "service": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
+        "language": "en",
+        "keywords": "documents, minor, passport, adopted, special circumstances child, citizien without a family name, Lebanon, Lebanese",
+        "section": "The requested documents",
+        "text": ":\n \n\nInvestigation report done by the Interior Security Forces\n \n\nA certificate of birth that conforms to current regulations\n \n\nA civil status extract for the child bearing his adoptive name\n \n\nA document signed by the orphanage waiving the child\n \n\nAn agreement issued by spiritual religious court concerning the adoption\n \n\nA marriage attestation procured by the adopting family\n \n\nThe approval issued by local governmental entities\n \n\nA medical attestation that underlines the infertility of one of the spouses\n \n\nAn extract of judicial record for both the kid and the adoptive parents\n \n\nA certified copy of the passport held by the adoptive parents\n \n\nAn attestation that underlines the fact that both the parents and the orphanage didn’t receive any form of revenue from the above mentioned procedure\n \n\nThe approval issued by the ministry of internal affairs and the municipality\n \n\nAn attestation of baptism for the adopted kid and the adoptive parents\n \n\nAn accreditation issued to the orphanage\n \n\nA proxy done by one of the parents to the other, if one of them is unable to show up\n \nNB:\n \n\nThe above-mentioned documents have to be authentic, and the copies should be certified\n \n\nThe procedures required in such a case are held in the general secretarial office of the general security, by the adoptive parents. The documents are then transferred to the bureau of passports, naturalization and foreign affairs. \nChild born in special circumstances An individual registered under his mother’s surname, without a mention of his father’s true identity (considered anonymous), that conveys a request of obtaining a passport, has to respect the following criteria:\nA passport for an adult applicant (hyperlink)"
+    },
+    {
+        "document": "Passport of adopted, born in special circumstances child or a citizen without a family name.txt",
+        "title": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
+        "url": "https://www.general-security.gov.lb/en/posts/71",
+        "category": "Passport",
+        "service": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
+        "language": "en",
+        "keywords": "documents, minor, passport, adopted, special circumstances child, citizien without a family name, Lebanon, Lebanese",
+        "section": "A passport for a minor",
+        "text": "his mother should show up at the competent general security bureau, where she is interrogated, having in hand the requested documents, including the judicial decisions that led to the registration of the child under the mother’s name\n \nThe final decision is issued by the general director of the general security."
+    },
+    {
+        "document": "Passport of adopted, born in special circumstances child or a citizen without a family name.txt",
+        "title": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
+        "url": "https://www.general-security.gov.lb/en/posts/71",
+        "category": "Passport",
+        "service": "Passport of an adopted, born in special circumstances child or a citizen without a family name",
+        "language": "en",
+        "keywords": "documents, minor, passport, adopted, special circumstances child, citizien without a family name, Lebanon, Lebanese",
+        "section": "A citizen without a family name",
+        "text": "Citizens that do not have family names, have a right to a passport according to the information provided by the identity card or an extract of civil status\nThe label: “----“is transcribed under the family name, regardless of the foreign language"
     }
 ]
