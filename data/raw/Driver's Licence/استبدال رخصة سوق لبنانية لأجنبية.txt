@@ -4,7 +4,7 @@ Title: "
 Category: Driver's Licence
 Language: ar
 Keywords: Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،
-Service: استمارة رخصة سوق للخارج
+Service: استبدال رخصة سوق لبنانية لأجنبية
 Content:
 1
 الوصف
