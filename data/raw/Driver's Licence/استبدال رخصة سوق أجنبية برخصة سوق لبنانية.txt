@@ -4,8 +4,7 @@ Category: Driver's Licence
 Language: ar
 Keywords: Driver's license, driving license, Lebanon, Lebanese, documents, appointment, replacement, foreign to Lebanese, foreign licence to Lebanese licence, foreign,
 استبدال رخصة أجنبية برخصة لبنانية, من أجنبية إلى لبنانية,رخصة سوق، لبنان، لبناني، المستندات ، استبدال، معادلة، أجنبي، موعد،
-Service:
-استبدال رخصة سوق أجنبية برخصة سوق لبنانية
+Service:استبدال رخصة سوق أجنبية برخصة سوق لبنانية
 Content:
 1
 الوصف
