@@ -44,17 +44,6 @@
         "text": ":\n\n2.1\nصورة عن جواز السفر\n\n2.2\nصورة عن الهوية\n\n2.3\nصورة عن رخصة السوق اللبنانية\n\n2.4\nصور شمسية عدد 2"
     },
     {
-        "document": "استبدال رخصة سوق لبنانية لأجنبية.txt",
-        "title": "\"",
-        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
-        "category": "Driver's Licence",
-        "service": "استبدال رخصة سوق لبنانية برخصة سوق أجنبية",
-        "language": "ar",
-        "keywords": "Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،Lebanese to foreign, Lebanese licence to foreign licence, استبدال رخصة لبنانية برخصة أجنبية, من لبنانية إلى أجنبية",
-        "section": "Full Document",
-        "text": "1\nالوصف\n\nلا يتطلب موعد\n(يستوجب حضور صاحب العلاقة شخصيا)\n1.1\nتُتيح هذه الاستمارة لصاحب العلاقة استبدال رخصة السوق اللبنانية برخصة سوق أجنبية، وذلك وفقًا للقوانين والأنظمة المعتمدة في الدولة الأجنبية المعنية.\n\n1.2\nيجب أن تُوقَّع هذه الاستمارة من قبل رئيس مصلحة تسجيل السيارات والآليات، ثم تُترجَم إلى اللغة المطلوبة وتُصدَّق لدى وزارة الخارجية اللبنانية لكي تُصبح نافذة.\n\n2\nالمستندات المطلوبة:\n\n2.1\nصورة عن رخصة السوق\n\n2.2\nصورة عن الهوية\n\n2.3\nتأمين الطوابع الماليّة اللازمة القيمة 50000ل.ل."
-    },
-    {
         "document": "الاستحصال على رخصة سوق بدل عن ضائع.txt",
         "title": "\"الاستحصال على رخصة سوق بدل عن ضائع(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
         "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
@@ -141,6 +130,50 @@
         "keywords": "Driver's license, driving licence, Lebanon, Lebanese, documents, appointment,expired,renewal, taxi,public,private,رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،منتهية  الصلاحة، تجديد",
         "section": "ملاحظة",
         "text": "3.1\nفي حال تم تغيير عنوان السكن يجب احضار افادة سكن من مختار المحلّة.\n\n3.2\nفي حال رخصة السوق المنتهية الصلاحية من الإصدار القديم(الغيير بيومتري)، يتوجب على المواطن الحضور الى المكان المختص في المركز من اجل اخذ البصمات للتمكن من اصدار رخصة السوق البيومترية"
+    },
+    {
+        "document": "استبدال رخصة سوق لبنانية برخصة سوق أجنبية.txt",
+        "title": "\"",
+        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
+        "category": "Driver's Licence",
+        "service": "استبدال رخصة سوق لبنانية برخصة سوق أجنبية",
+        "language": "ar",
+        "keywords": "Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،Lebanese to foreign, Lebanese licence to foreign licence, استبدال رخصة لبنانية برخصة أجنبية, من لبنانية إلى أجنبية",
+        "section": "الوصف",
+        "text": "لا يتطلب موعد\n(يستوجب حضور صاحب العلاقة شخصيا)\n1.1\nتُتيح هذه الاستمارة لصاحب العلاقة استبدال رخصة السوق اللبنانية برخصة سوق أجنبية، وذلك وفقًا للقوانين والأنظمة المعتمدة في الدولة الأجنبية المعنية.\n\n1.2\nيجب أن تُوقَّع هذه الاستمارة من قبل رئيس مصلحة تسجيل السيارات والآليات، ثم تُترجَم إلى اللغة المطلوبة وتُصدَّق لدى وزارة الخارجية اللبنانية لكي تُصبح نافذة.\n\n2"
+    },
+    {
+        "document": "استبدال رخصة سوق لبنانية برخصة سوق أجنبية.txt",
+        "title": "\"",
+        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
+        "category": "Driver's Licence",
+        "service": "استبدال رخصة سوق لبنانية برخصة سوق أجنبية",
+        "language": "ar",
+        "keywords": "Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،Lebanese to foreign, Lebanese licence to foreign licence, استبدال رخصة لبنانية برخصة أجنبية, من لبنانية إلى أجنبية",
+        "section": "المستندات المطلوبة",
+        "text": ":\n\n2.1\nصورة عن رخصة السوق\n\n2.2\nصورة عن الهوية\n\n2.3\nتأمين الطوابع الماليّة اللازمة القيمة 50000ل.ل."
+    },
+    {
+        "document": "استبدال رخصة سوق أجنبية برخصة سوق لبنانية.txt",
+        "title": "\"استبدال رخص السوق الأجنبية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
+        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
+        "category": "Driver's Licence",
+        "service": "",
+        "language": "ar",
+        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, replacement, foreign to Lebanese, foreign licence to Lebanese licence, foreign,",
+        "section": "الوصف",
+        "text": "لا يتطلب موعد\n(يستوجب حضور صاحب العلاقة شخصيا)\n1.1\nتُتيح هذه الخدمة لصاحب العلاقة استبدال رخصة سوق أجنبية برخصة سوق لبنانية، وذلك وفقًا للأصول القانونية المعتمدة وبعد التأكد من مطابقة الرخصة الأجنبية للشروط المطلوبة.\n\n2"
+    },
+    {
+        "document": "استبدال رخصة سوق أجنبية برخصة سوق لبنانية.txt",
+        "title": "\"استبدال رخص السوق الأجنبية(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)\"",
+        "url": "https://tmo.gov.lb/web/panel/info/service-types/1",
+        "category": "Driver's Licence",
+        "service": "",
+        "language": "ar",
+        "keywords": "Driver's license, driving license, Lebanon, Lebanese, documents, appointment, replacement, foreign to Lebanese, foreign licence to Lebanese licence, foreign,",
+        "section": "المستندات المطلوبة",
+        "text": "2.1\nافادة من فرع المرور من مصدر الرخصة(مصدقة من وزارة الخارجية للدولة التي تم الاستحصال على الرخصة الاجنبية منها)\n\n2.2\nشهادة صحية\n\n2.3\nصورة شمسية عدد 2 مصدقة\n\n2.4\nافادة سكن/ صورة هوية/ صورة عن الاقامة/جواز سفر\n\n2.5\nرخصة السوق الاجنبية\n\n2.6\nسجل عدلي"
     },
     {
         "document": "Lost Passport or Stolen Passport.txt",
