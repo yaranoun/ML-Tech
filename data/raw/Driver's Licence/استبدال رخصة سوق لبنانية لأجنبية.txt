@@ -3,8 +3,8 @@ Title: "
 استمارة رخصة سوق للخارج(يستوجب حضور صاحب العلاقة شخصيا)(للاطلاع على المستندات المطلوبة دون الحاجة لحجز موعد مسبق)" 
 Category: Driver's Licence
 Language: ar
-Keywords: Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،
-Service: استبدال رخصة سوق لبنانية لأجنبية
+Keywords: Driver's license, Lebanon, Lebanese, documents, appointment,foreign, رخصة سوق، لبنان، لبناني، المستندات، موعد، رخصة قيادة ،أجنبي، خارج ،Lebanese to foreign, Lebanese licence to foreign licence, استبدال رخصة لبنانية برخصة أجنبية, من لبنانية إلى أجنبية
+Service: استبدال رخصة سوق لبنانية برخصة سوق أجنبية
 Content:
 1
 الوصف
